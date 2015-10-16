@@ -1,6 +1,6 @@
-name: null
+name: ErinFults
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.1444449000991881
 cta:
   domain: null
   bucket: null
@@ -20,3 +20,4 @@ color:
   saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
+typography_spectrum: 0.3595037595368922
